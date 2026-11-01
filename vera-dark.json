@@ -1,0 +1,16 @@
+{
+  "name": "vera-dark",
+  "bg": "#161719",
+  "dark": "#0d0e10",
+  "raised": "#262729",
+  "selection": "#323335",
+  "fg": "#f1f2f4",
+  "dim": "#8f9299",
+  "red": "#e94646",
+  "green": "#11c965",
+  "yellow": "#f7b750",
+  "orange": "#f97316",
+  "blue": "#3279d7",
+  "purple": "#8b5cf6",
+  "cyan": "#14b8a6"
+}
