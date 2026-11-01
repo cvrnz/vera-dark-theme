@@ -22,9 +22,9 @@ On Linux the folder is `~/.config/dev.mono.app/themes`. Then pick `vera-dark` wi
 
 | Key | Color | Used for | From classic |
 |-----|-------|----------|--------------|
-| `bg` | `#161719` | Background | Cards (`surface`) |
-| `dark` | `#0d0e10` | Side panels, popups | Window frame (`background`) |
-| `raised` | `#262729` | Cursor line, selected tab | Hover and selected fill (`default`) |
+| `bg` | `#0d0e10` | Background | Window frame (`background`) |
+| `dark` | `#08090a` | Side panels, popups, status bar | A step below the window frame |
+| `raised` | `#252628` | Cursor line, selected tab | Hover and selected fill (`default`); Vera's modern cards mix 38% of it into `bg`, which gives classic's card color (`surface`, `#161719`) |
 | `selection` | `#323335` | Selected text | Segmented control (`segment`) |
 | `fg` | `#f1f2f4` | Text | `foreground` |
 | `dim` | `#8f9299` | Comments, muted text | `muted` |
